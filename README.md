@@ -1,2 +1,2 @@
 # Hadoop
-Hadoop Python Map Reduce Java - PUC Minas
+Hadoop Python Map Reduce Atividade - PUC Minas
